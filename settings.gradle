@@ -1,0 +1,4 @@
+include ':YunLib'
+include ':TCPLib'
+include ':app'
+rootProject.name = "RDCloud2"

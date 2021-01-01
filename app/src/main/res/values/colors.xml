@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--AppBar背景颜色-->
+    <color name="colorPrimary">#ffffff</color>
+    <!--状态栏颜色-->
+    <color name="colorPrimaryDark">#eeeeee</color>
+    <!--各个控件被选中时颜色-->
+    <color name="colorAccent">#03DAC5</color>
+</resources>
